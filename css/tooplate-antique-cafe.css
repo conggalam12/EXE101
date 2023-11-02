@@ -108,7 +108,7 @@ textarea::-ms-input-placeholder { /* Microsoft Edge */
 }
 
 #tm-nav.scroll {
-    background-color: rgba(0,0,0,0.7);
+    background-color: rgba(121, 80, 47, 0.7);
 }
 
 #tm-nav li a {
@@ -118,7 +118,7 @@ textarea::-ms-input-placeholder { /* Microsoft Edge */
 
 #tm-nav li a.current,
 #tm-nav li a:hover {
-      border-bottom: 4px solid #CC9966;
+      border-bottom: 4px solid #aac224;
 }
 
 .tm-text-2xl {
